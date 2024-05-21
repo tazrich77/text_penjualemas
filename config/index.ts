@@ -4,8 +4,8 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const IS_WORKFLOW = `${process.env.NEXT_PUBLIC_APP_TYPE_WORKFLOW}` === 'true'
 export const APP_INFO: AppInfo = {
-  title: 'Text Generator APP',
-  description: 'App description',
+  title: 'Jual Emas Skrip Generator',
+  description: 'App ini bertujuan untuk bantu penjual emas hasilkan skrip untuk menjual barang kemas kepada pelanggan. Pilih & Isikan Butiran di bawah dan Tekan Run',
   copyright: '',
   privacy_policy: '',
   default_language: 'en-US',
